@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamenUF2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="Comarques">
+        <item>"Alt Empordà"</item>
+        <item>Baix Empordà</item>
+        <item>Cerdanya</item>
+        <item>Garrotxa</item>
+        <item>Gironès</item>
+        <item>Pla de l’Estany</item>
+        <item>Ripollès</item>
+        <item>Selva</item>
+    </string-array>
+</resources>
